@@ -330,7 +330,3 @@ npm run build
 
 **Trishna K**
 
-Integrated M.Tech Software Engineering
-VIT-AP University
-
-Frontend Developer passionate about creating immersive, performant, and visually engaging web experiences.
